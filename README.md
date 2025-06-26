@@ -7,7 +7,7 @@ After a decade leading industrial security products and services, I made a strat
 Data is my new problem-solving language. While newly transitioned, my IBM certification validates my technical capabilities, and my management experience provides rare business context - I speak both data and decision-maker fluently.
 
 🛠️ Core Competencies
-Data Analysis: Python (Pandas, NumPy), SQL, Visualization (Matplotlib, Seaborn, Power BI)
+Data Analysis: Python (Pandas, NumPy), SQL, Visualization (Matplotlib, Seaborn, Power BI, IBM Cognos)
 
 Predictive Modeling: Scikit-learn, statistical analysis
 
