@@ -1,45 +1,44 @@
-🌟 Hello, I'm Dio Hernández
-IBM-Certified Data Analyst | Computer Engineer | Former Product Manager Reigniting My Tech Passion
+🌟 Dio Hernández
+📊 Data Analyst | Computer Engineer | Tech Leader with Product Management Expertise
 
-After a decade leading industrial security products and services, I made a strategic pivot to reclaim my roots as a Computer Engineer, now certified as a Data Analyst by IBM. I bridge technical expertise with business acumen to transform raw data into strategic insights.
+With over a decade of experience in technology and business leadership, I’ve transitioned from managing industrial security products to specializing in data-driven decision-making. As an IBM-Certified Data Analyst and Computer Engineer, I combine deep technical expertise with strategic business acumen to deliver actionable insights.
 
-🔍 My Analytical Approach
-Data is my new problem-solving language. While newly transitioned, my IBM certification validates my technical capabilities, and my management experience provides rare business context - I speak both data and decision-maker fluently.
+🔍 Analytical Approach
+Data is more than numbers—it’s the foundation of strategic decisions. My background in product management and engineering allows me to bridge the gap between technical analysis and executive decision-making, ensuring data solutions align with business objectives.
 
 🛠️ Core Competencies
-Data Analysis: Python (Pandas, NumPy), SQL, Visualization (Matplotlib, Seaborn, Power BI, IBM Cognos)
+Advanced Data Analysis: Python (Pandas, NumPy, PySpark), SQL (optimization, complex queries), BI Tools (Power BI, Tableau, IBM Cognos)
 
-Predictive Modeling: Scikit-learn, statistical analysis
+Machine Learning & Predictive Modeling: Scikit-learn, TensorFlow (basic), statistical inference, A/B testing
 
-Automation: Web Scraping (BeautifulSoup, Selenium), API integrations
+Data Engineering & Automation: ETL pipelines, cloud platforms (AWS, GCP), API integrations, web scraping (BeautifulSoup, Selenium)
 
-Data Engineering: ETL processes, data cleaning/transformation
+Leadership & Strategy: Data storytelling, stakeholder management, agile project execution
 
-🚀 Current Initiatives
+🚀 Key Initiatives & Expertise
+End-to-End Data Solutions: From raw data collection to predictive modeling and executive dashboards.
 
-- Data analysis and visualization using **Python (Pandas, Matplotlib, Seaborn)**.  
-- Web Scraping projects with **BeautifulSoup and Selenium**.  
-- Machine learning model development and **hyperparameter tuning** for improved performance.  
-- Exploring API integrations to **extract job market trends** and insights.
-- Developing interactive dashboards for business intelligence.
-- Building predictive models for trend analysis.
-- Automating data pipelines for efficiency.
+Process Optimization: Automating workflows to enhance efficiency and reduce manual overhead.
 
-💡 Differentiating Value
-Dual Perspective: 10 years of product management informs my data-to-business translation
+Market & Trend Analysis: Leveraging APIs and external datasets to uncover business opportunities.
 
-Engineering Rigor: Structured, methodology-driven approach to analysis
+Mentorship & Collaboration: Leading cross-functional teams to implement data-driven strategies.
 
-Proven Commitment: Earned certification while balancing family responsibilities
+💡 Why Partner With Me?
+Proven Leadership: 10+ years managing tech products, teams, and complex stakeholder relationships.
 
-Relentless Upskilling: Daily dedication to mastering new techniques
+Technical Depth: Hands-on experience in data analysis, engineering, and ML, backed by formal upskilling (IBM, Coursera).
 
-🤝 Seeking Opportunities To
-Apply analytical skills to real-world business challenges
+Business Impact: Focused on translating technical insights into revenue growth, cost savings, and operational efficiency.
 
-Collaborate with growth-minded data teams
+Continuous Innovation: Committed to staying ahead of industry trends (GenAI, cloud analytics, real-time data processing).
 
-Contribute unique perspective as a successful career-transitioner
+🤝 Looking For
+Strategic Data Roles: Senior/Lead positions where I can drive analytics initiatives.
+
+High-Impact Projects: Complex problems requiring both technical and business expertise.
+
+Collaborative Teams: Organizations that value innovation, data maturity, and measurable results.
 
 📫 Let's Connect
 📧 Email: diohernandezp@gmail.com
