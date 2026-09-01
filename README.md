@@ -1,46 +1,19 @@
-🌟 Dio Hernández
-📊 Data Analyst | Computer Engineer | Tech Leader with Product Management Expertise
+Computer Science Engineer | Data & Operations Analyst | Power BI, SQL & Advanced Excel | Pricing & Supply Chain Strategy 
 
-With over a decade of experience in technology and business leadership, I’ve transitioned from managing industrial security products to specializing in data-driven decision-making. As an IBM-Certified Data Analyst and Computer Engineer, I combine deep technical expertise with strategic business acumen to deliver actionable insights.
+Computer Science Engineer with a strong background in B2B operations, procurement, and cost analysis. I possess a comprehensive understanding of business workflows, allowing me to translate complex operational data into actionable pricing and supply chain strategies.
 
-🔍 Analytical Approach
-Data is more than numbers—it’s the foundation of strategic decisions. My background in product management and engineering allows me to bridge the gap between technical analysis and executive decision-making, ensuring data solutions align with business objectives.
+Throughout my career, I have designed and implemented data-driven solutions to optimize inventories, streamline mass billing workflows, and analyze supplier cost structures. Having worked closely with sectors such as manufacturing, logistics, and technical services, I have developed a unique ability to gather business requirements from the inside, maintain accurate pricing files, and communicate effectively with stakeholders at all levels.
 
-🛠️ Core Competencies
-Advanced Data Analysis: Python (Pandas, NumPy, PySpark), SQL (optimization, complex queries), BI Tools (Power BI, Tableau, IBM Cognos)
+Currently, I combine my operational expertise with advanced data analytics, focusing on abstracting business logic directly into relational database engines and building robust data pipelines.
 
-Machine Learning & Predictive Modeling: Scikit-learn, TensorFlow (basic), statistical inference, A/B testing
+🔷 Technical Stack & Core Competencies: SQL (Advanced Queries, Joins, Subqueries, Stored Procedures), Relational Database Design, Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Validation), Data Modeling, IBM Cognos Analytics, Power BI, DAX, Python for Data Analysis.
 
-Data Engineering & Automation: ETL pipelines, cloud platforms (AWS, GCP), API integrations, web scraping (BeautifulSoup, Selenium)
+🔷 Business Focus: Pricing & Cost Analysis, Freight & Material Evaluation, Supplier RFQ/RFP Data Support, Inventory Management, Process Optimization.
 
-Leadership & Strategy: Data storytelling, stakeholder management, agile project execution
+🔷 Languages: Spanish (Native) | English (Professional Working Proficiency – strong reading, writing, and technical communication).
 
-🚀 Key Initiatives & Expertise
-End-to-End Data Solutions: From raw data collection to predictive modeling and executive dashboards.
-
-Process Optimization: Automating workflows to enhance efficiency and reduce manual overhead.
-
-Market & Trend Analysis: Leveraging APIs and external datasets to uncover business opportunities.
-
-Mentorship & Collaboration: Leading cross-functional teams to implement data-driven strategies.
-
-💡 Why Partner With Me?
-Proven Leadership: 10+ years managing tech products, teams, and complex stakeholder relationships.
-
-Technical Depth: Hands-on experience in data analysis, engineering, and ML, backed by formal upskilling (IBM, Coursera).
-
-Business Impact: Focused on translating technical insights into revenue growth, cost savings, and operational efficiency.
-
-Continuous Innovation: Committed to staying ahead of industry trends (GenAI, cloud analytics, real-time data processing).
-
-🤝 Looking For
-Strategic Data Roles: Senior/Lead positions where I can drive analytics initiatives.
-
-High-Impact Projects: Complex problems requiring both technical and business expertise.
-
-Collaborative Teams: Organizations that value innovation, data maturity, and measurable results.
-
+I am looking to join international remote teams in roles such as Pricing Analyst, Operations Analyst, Data Analyst, or Supply Chain Analyst, where my hybrid profile —capable of understanding the data structure behind and the business operations in front— delivers immediate accuracy and efficiency.
 📫 Let's Connect
 📧 Email: diohernandezp@gmail.com
-🔗 LinkedIn: Coming Soon (Project portfolio in development)
+🔗 LinkedIn: https://www.linkedin.com/in/dionner-hernandez-977690351/
 
